@@ -1,6 +1,22 @@
 ### Hi there 👋
 #### My Name is Rahul Keshri 👦 , I'm a Ordinary Programmer 💻 like you.
-![Dev (1)](https://user-images.githubusercontent.com/116769878/207853591-77b41d20-6d79-4947-b74a-19815b4c99da.gif)
+
+## I have worked with these 🖥️ Programming Languages
+
+![lang](https://user-images.githubusercontent.com/116769878/207865099-d09de051-c0be-48b2-8542-cfdf0c68279d.gif)
+
+###### Now, I'm using JAVA for DSA and JavaScript & Node.js for Development.
+
+## Tools , I have in my Pocket 👖
+
+![tools](https://user-images.githubusercontent.com/116769878/207865647-67c762bd-c801-4ead-89c5-4035eb2c9ad2.gif)
+
+## frontend Technologies - I use in my day to day coding ☺️
+
+![FRONT](https://user-images.githubusercontent.com/116769878/207866713-bea947b6-16be-445e-be4c-6144bf7ae2b8.gif)
+
+
+
 
 
 
