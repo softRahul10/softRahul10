@@ -15,9 +15,6 @@
 
 ![FRONT](https://user-images.githubusercontent.com/116769878/207866713-bea947b6-16be-445e-be4c-6144bf7ae2b8.gif)
 
-## I'm Comfortable with both - Hindi & English
-
-![Dev (6)](https://user-images.githubusercontent.com/116769878/207881927-f87389d4-af6f-46e7-a7ac-8f7f57e61975.gif)
 
 
 
